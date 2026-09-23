@@ -8,5 +8,7 @@
 <nav>
   <a href="index.php?route=dashboard">Dashboard</a>
   <a href="index.php?route=products/list">Products</a>
+  <a href="index.php?route=categories/list">Categories</a>
+  <a href="index.php?route=suppliers/list">Suppliers</a>
 </nav>
 <main>
